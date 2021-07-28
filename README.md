@@ -13,3 +13,8 @@ phase transitions, single-neuron models.
 
   * Tutorial 2 (Ising model): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lyDdEqd9LEQ0h8IVss5yPsu15MHGkqsL?usp=sharing)
 
+* Week 3:
+single-neuron models continued (2d), Wilson-Cowan model
+  * Slides 3:  [![Open in Google slides](https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Slides_logo_%282014-2020%29.svg)](https://docs.google.com/presentation/d/1oBf6NUrBjEdB6X6MNpflLnbs6Jqq9oImJqpHxMsx0g8/edit?usp=sharing)
+  * Tutorial 3a (FitzHugh-Nagumo model): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2AkX4N_3rYfTeYDKzVgKfMOZ4QCTUUz?usp=sharing)
+  * Tutorial 3b (Wilson-Cowan model): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y42TDDdDXPVOHGnsQJQvH1TbF-ZPGvTm?usp=sharing)
